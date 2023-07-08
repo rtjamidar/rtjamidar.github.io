@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Resume"
+title: "Ratnesh Jamidar"
 permalink: /resume/
 ---
-# Ratnesh Jamidar 
+# Personal Details 
 
 - **Phone:** +91 (895) 345 7312 
 - **Email:** ratneshjd@gmail.com 
