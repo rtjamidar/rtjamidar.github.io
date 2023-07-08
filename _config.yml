@@ -1,7 +1,7 @@
-title: Your awesome title
+title: Ratnesh Jamidar
 author:
   name: GitHub User
-  email: your-email@domain.com
+  email: rtjamidar@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -48,8 +48,9 @@ minima:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-# header_pages:
-#   - about.md
+header_pages:
+  - resume.md
+  
 
 # Set to `true` to show excerpts on the homepage.
 #
