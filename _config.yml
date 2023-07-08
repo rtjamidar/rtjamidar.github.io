@@ -1,3 +1,7 @@
 theme: minima
 header_pages:
   - resume.md
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/rtjamidar" }
+    - { platform: twitter, user_url: "https://twitter.com/ratneshjamidar" }
