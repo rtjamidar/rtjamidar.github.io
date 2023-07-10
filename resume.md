@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Ratnesh Jamidar"
+title: "Resume"
 permalink: /resume/
 ---
 # Personal Details 
