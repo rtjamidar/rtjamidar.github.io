@@ -24,10 +24,11 @@ Seasoned Machine Learning professional with extensive experience in building and
 - Engineered a world-class ML inference infrastructure with a multi-cluster Kubernetes platform (15000+ cores, 3000+ services, 300+ GPUs), achieving 99.99% cluster uptime, 30% cost savings, and the capacity to handle 10 billion+ predictions/day.
 - Designed & implemented Kratos, an automated machine learning workflow that includes single-click train-deploy on the cloud. This resulted in reducing model training time from weeks to days and shipping 500+ services in production
 - Acted as a key stakeholder in strategic partnerships with leading cloud providers like Azure, AWS and GCP.
-- Designed and implemented a Contact Centre AI, which includes an array of text/token-based classification models and seq2seq generation models, resulting in a product that generated multi-million dollar revenue.
+
+ # (- Designed and implemented a Contact Centre AI, which includes an array of text/token-based classification models and seq2seq generation models, resulting in a product that generated multi-million dollar revenue.)
 
 **Lead Machine Learning Engineer** (Apr 2019-Nov 2020)
-- Implemented a solution to identify real-time contextual trends on social media by processing 500 million tweets to create over 200 million time series, selecting 2 million trending segments, and ultimately generating about 1 thousand trends.
+- Developed a solution for identifying real-time trends on social media by analyzing 500 million tweets, resulting in the creation of approximately 1,000 distinct trends.
 - Scaled OCR for Sprinklr Insights module enriching Twitter Firehose (450 million tweets/day), Reddit, Facebook, Instagram, and over 350 million other news+blog sources
 - Deployed a key information extraction solution for structured images, such as invoices and product snapshots. 
 
@@ -36,6 +37,7 @@ Seasoned Machine Learning professional with extensive experience in building and
 
 **Product Engineer** (Jun 2016-Apr 2018)
 - Contributed to the development of a highly scalable, fault-tolerant Spark-based data management framework, capable of filtering millions of records from billions stored in HDFS/S3 within a minute.
+
 ### Samsung Research Institute, Bangalore
 **Research Intern** (May 2015-Jul 2015)
 - Analyzed and developed solutions to improve Android performance and reduce sluggishness
@@ -43,7 +45,7 @@ Seasoned Machine Learning professional with extensive experience in building and
 ## Education
 ### Indian Institute of Technology Kanpur
 **B. Tech, Computer Science and Engineering** (2012-2016)
-- Score: 7.8/10
+- CGPA: 7.8/10
 
 ## Certifications
 **Coursera**
