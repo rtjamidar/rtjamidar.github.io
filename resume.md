@@ -12,7 +12,7 @@ permalink: /resume/
 ## Work Experience
 ### Sprinklr, Gurugram
 **Area Vice President, Machine Learning** (Aug 2022-Present)
-* Managed a global team of 15+ members, including ML engineers and Data Scientists, working on NLP and CV projects, creating products that serve 9 out 10 Fortune 100 clients in 40+ industries globally across 100+ languages.
+* Managed a global team of 25+ members, including ML engineers and Data Scientists, working on NLP and CV projects, creating products that serve 9 out 10 Fortune 100 clients in 40+ industries globally across 100+ languages.
 * Designed & implemented Kratos, an automated machine learning workflow that includes single-click train-deploy on the cloud, architecture search, model refresh, & multi-model support, resulting in shipping 500+ services in production.
 * Implemented entity linking for Sprinklr Insights by training a model on Wikipedia 2022 and optimizing for resource footprint, resulting in an 80% reduction in search query-length and 15% increase in entity detection f1 score.
 * Designed & implemented Agent Quality Management solution for companies like Dell, Samsung, includes arrays of text/token-based classification models, resulting in a million-dollar revenue.
