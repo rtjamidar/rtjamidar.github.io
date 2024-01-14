@@ -1,10 +1,9 @@
-```markdown
-    ---
-    layout: page
-    title: "Resume"
-    permalink: /resume/
-    ---
-# Ratnesh Jamidar 
+---
+layout: page
+title: "Resume"
+permalink: /resume/
+---
+# Personal Details 
 
 - **Phone:** +91 (895) 345 7312 
 - **Email:** ratneshjd@gmail.com 
@@ -49,5 +48,4 @@ Score: 7.8/10
 
 ## Achievements
 - Achieved All India Rank 232 in IIT-JEE and All India Rank 889 in AIEEE among over 500,000 applicants (2012)
-```
 
