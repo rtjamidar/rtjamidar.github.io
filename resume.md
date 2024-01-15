@@ -24,8 +24,7 @@ Seasoned Machine Learning professional with extensive experience in building and
 - Engineered a world-class ML inference infrastructure with a multi-cluster Kubernetes platform (15000+ cores, 3000+ services, 300+ GPUs), achieving 99.99% cluster uptime, 30% cost savings, and the capacity to handle 10 billion+ predictions/day.
 - Designed & implemented Kratos, an automated machine learning workflow that includes single-click train-deploy on the cloud. This resulted in reducing model training time from weeks to days and shipping 500+ services in production
 - Acted as a key stakeholder in strategic partnerships with leading cloud providers like Azure, AWS and GCP.
-
- # (- Designed and implemented a Contact Centre AI, which includes an array of text/token-based classification models and seq2seq generation models, resulting in a product that generated multi-million dollar revenue.)
+- Designed and implemented a Contact Centre Analytics, which includes an array of text/token-based classification models and seq2seq generation models, resulting in a creating a new product line that generated multi-million dollar revenue.)
 
 **Lead Machine Learning Engineer** (Apr 2019-Nov 2020)
 - Developed a solution for identifying real-time trends on social media by analyzing 500 million tweets, resulting in the creation of approximately 1,000 distinct trends.
